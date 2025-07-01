@@ -25,6 +25,11 @@ https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3
 ```
 https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free2
 ```
+Sub-Store版
+```
+http://nas.mcxiaochen.top:3001/share/col/%E5%B0%98%E5%B0%98%E5%85%AC%E7%9B%8A?token=jQKbXw3D7ZyN5AV-j0-oo
+```
+
 
 ## 配置文件
 
