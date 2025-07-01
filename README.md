@@ -12,6 +12,14 @@
 
 ------
 
+## 尘の公益组
+> [!CAUTION]
+> 节点均来自网络收集，侵权联系删除！
+
+```通用
+https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free
+```
+
 ## 配置文件
 
 ### 可莉clash配置二改
