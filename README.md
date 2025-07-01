@@ -11,3 +11,10 @@
 > 转载时你需要保留原作者署名信息，且遵守本仓库的 [MIT](LICENSE.md) 许可协议。
 
 ------
+
+## 配置文件
+
+> [!NOTE]
+> 主要魔改了代理组的部分，可以[参考原版](https://github.com/luestr/ProxyResource/tree/main/Tool/Clash/Config)自行对比修改部分，同时修改了订阅部分，只保留一条，初级放到SUB了，不需要重复添加了。
+
+[可莉clash配置二改](https://github.com/mcxiaochenn/ProxyResource/blob/main/Clash/Config/Clash_Sample_Configuration_By_iKeLee_%E5%B0%98%E4%BA%8C%E6%94%B9.yaml)
