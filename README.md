@@ -15,9 +15,15 @@
 ## 尘の公益组
 > [!CAUTION]
 > 节点均来自网络收集，侵权联系删除！
+> 由于节点太多了，连接超时可能会更新失败，所以分成2个链接了
 
-```通用
-https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free
+1号
+```
+https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free1
+```
+2号
+```
+https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free2
 ```
 
 ## 配置文件
