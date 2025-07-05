@@ -19,11 +19,11 @@
 
 1号
 ```
-https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free1
+https://misub.mcxiaochen.top/bFoFiMCmqsAOvsaqyGHLhlQN9gojeOscyFdd31MaGRVHJAsCntML2ihl8yJ0znFm/free1
 ```
 2号
 ```
-https://misub.mcxiaochen.top/m5LcwRmnAofxxMbiLsTT4RlCVqtF9pRmWQaxXdo7f7COsOfAal3P7Gaes3I7gZj6/free2
+https://misub.mcxiaochen.top/bFoFiMCmqsAOvsaqyGHLhlQN9gojeOscyFdd31MaGRVHJAsCntML2ihl8yJ0znFm/free2
 ```
 Sub-Store版
 ```
